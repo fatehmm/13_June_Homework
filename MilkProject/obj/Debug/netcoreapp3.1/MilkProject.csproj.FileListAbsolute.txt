@@ -1,0 +1,14 @@
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/bin/Debug/netcoreapp3.1/MilkProject
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/bin/Debug/netcoreapp3.1/MilkProject.deps.json
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/bin/Debug/netcoreapp3.1/MilkProject.runtimeconfig.json
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/bin/Debug/netcoreapp3.1/MilkProject.runtimeconfig.dev.json
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/bin/Debug/netcoreapp3.1/MilkProject.dll
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/bin/Debug/netcoreapp3.1/MilkProject.pdb
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/obj/Debug/netcoreapp3.1/MilkProject.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/obj/Debug/netcoreapp3.1/MilkProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/obj/Debug/netcoreapp3.1/MilkProject.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/obj/Debug/netcoreapp3.1/MilkProject.AssemblyInfo.cs
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/obj/Debug/netcoreapp3.1/MilkProject.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/obj/Debug/netcoreapp3.1/MilkProject.dll
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/obj/Debug/netcoreapp3.1/MilkProject.pdb
+/Users/fatehmmmdli/Projects/13JuneHomework/MilkProject/obj/Debug/netcoreapp3.1/MilkProject.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13JuneHomework", "13JuneHomework\13JuneHomework.csproj", "{8719E5A2-342A-44F8-99DA-9191BF6FA6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilkProject", "MilkProject\MilkProject.csproj", "{CBA3F5F0-2D42-4853-89F8-A8116F03CA68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8719E5A2-342A-44F8-99DA-9191BF6FA6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8719E5A2-342A-44F8-99DA-9191BF6FA6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8719E5A2-342A-44F8-99DA-9191BF6FA6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8719E5A2-342A-44F8-99DA-9191BF6FA6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA3F5F0-2D42-4853-89F8-A8116F03CA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA3F5F0-2D42-4853-89F8-A8116F03CA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA3F5F0-2D42-4853-89F8-A8116F03CA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA3F5F0-2D42-4853-89F8-A8116F03CA68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03934368-2AD0-4447-A837-451164E98229}
+	EndGlobalSection
+EndGlobal
